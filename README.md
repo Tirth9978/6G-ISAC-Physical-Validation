@@ -380,10 +380,10 @@ The Equivalent Fisher Information Matrix (EFIM) filter works by:
 
 | Author | |
 |--------|---|
-| Prince Patel | |
+| Tirth Patel | |
 | S Srujan | |
 | Prakriti Pandey | |
-| Tirth Patel | |
+| Prince Patel | |
 | Vrunda Patel | |
 | Vishwa Prajapati | |
 | Jiya Patel | |
@@ -392,7 +392,7 @@ The Equivalent Fisher Information Matrix (EFIM) filter works by:
 | Prayag Kachhia | |
 | Aarushi Shah | |
 
-**Contact**: 202401151@dau.ac.in
+**Contact**: tirthppatel9978@gmail.com
 
 ---
 
