@@ -1,0 +1,15 @@
+--- 10-TRIAL ISAC STATS ---
+Target: 1.0m | Pulse: 0.5s | Speed: 350.61 m/s
+
+Trial 1: 10.598 m
+Trial 2: 11.158 m
+Trial 3: 9.552 m
+Trial 4: 10.041 m
+Trial 5: 10.737 m
+Trial 6: 10.347 m
+Trial 7: 9.859 m
+Trial 8: 10.737 m
+Trial 9: 11.063 m
+Trial 10: 10.685 m
+
+Mean: 10.478 m | Std Dev: 0.494 m | Error: 947.8 cm

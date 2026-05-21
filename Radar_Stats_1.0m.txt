@@ -1,0 +1,15 @@
+--- 10-TRIAL PURE RADAR STATS ---
+Target: 1.0m | Speed: 350.47 m/s
+
+Trial 1: 0.989 m
+Trial 2: 1.017 m
+Trial 3: 1.017 m
+Trial 4: 0.989 m
+Trial 5: 0.989 m
+Trial 6: 1.017 m
+Trial 7: 1.009 m
+Trial 8: 1.009 m
+Trial 9: 0.989 m
+Trial 10: 0.997 m
+
+Mean: 1.003 m | Std Dev: 0.012 m | Mean Error: 0.3 cm

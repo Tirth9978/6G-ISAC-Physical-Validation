@@ -1,0 +1,11 @@
+--- ISAC EVOLUTION OUTDOOR RESULTS ---
+Target Distance: 1.0 meters
+Pulse Duration (Data Rate): 0.1 seconds
+Calibrated Speed of Sound: 350.04358 m/s
+----------------------------------------
+Stage 1 (Naive): Radar Guessed 1.00m
+Stage 2 (Alpha): Radar Calculated 1.00m
+Stage 3 (EFIM):  Radar Calculated 1.00m
+----------------------------------------
+Stage 3 Comms Original: 0100100001101001
+Stage 3 Comms Decoded:  0011010010001000
